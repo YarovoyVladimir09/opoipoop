@@ -1,0 +1,26 @@
+# ninja log v5
+2	1529	1659188515334868321	CMakeFiles/TransportCatalogue.dir/json_builder.cpp.o	8cedda0fe305f48f
+1	262	1659188514066876168	CMakeFiles/TransportCatalogue.dir/geo.cpp.o	d66c23a86f72449d
+2	1082	1659302793192081527	CMakeFiles/TransportCatalogue.dir/transport_router.cpp.o	f1398403e9026f0b
+1	300	1659188514106875920	CMakeFiles/TransportCatalogue.dir/domain.cpp.o	954e14c65b1e27be
+12	2269	1659293468050653172	CMakeFiles/TransportCatalogue.dir/transport_catalogue.cpp.o	36b2d36df06ea50a
+0	21	1659306235258242817	build.ninja	b8f00413d7ee957a
+2	1143	1659305612376100284	CMakeFiles/TransportCatalogue.dir/json.cpp.o	68a2953a7c2df1ab
+2	1332	1659188515134869558	CMakeFiles/TransportCatalogue.dir/svg.cpp.o	7f0db2f38b95c9db
+2	2446	1659305149636336496	CMakeFiles/TransportCatalogue.dir/request_handler.cpp.o	b52541611a63e47e
+2	1499	1659188515302868519	CMakeFiles/TransportCatalogue.dir/map_renderer.cpp.o	328cd71950c21e2a
+1248	1606	1659305612840105632	TransportCatalogue	6db47ff991b543ab
+1	1248	1659305612484101529	CMakeFiles/TransportCatalogue.dir/main.cpp.o	6c37a61b8a90f4eb
+1	1176	1659304880098463737	CMakeFiles/TransportCatalogue.dir/json_reader.cpp.o	c7db2f39d7f74c83
+3	385	1659306250506375922	CMakeFiles/TransportCatalogue.dir/geo.cpp.o	c05d191e07fb6f55
+3	532	1659306250650377177	CMakeFiles/TransportCatalogue.dir/domain.cpp.o	82edb22c118dec51
+5	1462	1659306251582385295	CMakeFiles/TransportCatalogue.dir/svg.cpp.o	4191e82d31cd3a99
+4	1537	1659306251658385958	CMakeFiles/TransportCatalogue.dir/json_reader.cpp.o	66ce2e55d11b401b
+3	1770	1659306251890387978	CMakeFiles/TransportCatalogue.dir/main.cpp.o	1e3dbcc0e4dd87a4
+3	1793	1659306251914388187	CMakeFiles/TransportCatalogue.dir/json.cpp.o	2d1497f1afb1a1e1
+385	2017	1659306252138390137	CMakeFiles/TransportCatalogue.dir/json_builder.cpp.o	bde1d346e44ddf4d
+533	2388	1659306252510393377	CMakeFiles/TransportCatalogue.dir/map_renderer.cpp.o	c0e27a106dfcbd93
+1770	2801	1659306252922396965	CMakeFiles/TransportCatalogue.dir/transport_router.cpp.o	789208bc69106903
+1537	3047	1659306253166399089	CMakeFiles/TransportCatalogue.dir/transport_catalogue.cpp.o	c01efee79cde57c
+1462	4076	1659306254194408039	CMakeFiles/TransportCatalogue.dir/request_handler.cpp.o	a79adff7ad90f3e8
+4076	4372	1659306254490410614	TransportCatalogue	82bb202b9c1e46c9
